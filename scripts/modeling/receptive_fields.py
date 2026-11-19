@@ -1,4 +1,4 @@
-from parameters import DATASETS, hexmap
+from scripts.parameters import DATASETS, hexmap
 import h5py
 import numpy as np
 import pandas as pd

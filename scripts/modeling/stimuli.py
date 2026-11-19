@@ -1,4 +1,4 @@
-from parameters import DATASETS, hexmap
+from scripts.parameters import DATASETS
 import h5py
 import numpy as np
 from eye_model_3d import MappedDataset

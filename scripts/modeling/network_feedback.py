@@ -1,4 +1,4 @@
-from parameters import DATASETS, contralateral
+from scripts.parameters import DATASETS, contralateral
 from connquer.network import LabeledConnections
 import pandas as pd
 import h5py
